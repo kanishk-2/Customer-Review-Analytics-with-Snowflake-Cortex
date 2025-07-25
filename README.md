@@ -22,12 +22,11 @@ Learn how to build a complete analytics pipeline that:
 
 ## ✨ What is Builded
 
- builded a **customer review analytics dashboard** that processes unstructured text data and visualizes sentiment trends across products and time periods.
+builded a **customer review analytics dashboard** that processes unstructured text data and visualizes sentiment trends across products and time periods.
 
 ---
 
 ## 📋 Prerequisites
-
 To get started, make sure you have:
 
 * Access to a **Snowflake account**.
@@ -118,7 +117,7 @@ The project's Streamlit application generates interactive charts using Altair to
 <img width="1157" height="557" alt="2" src="https://github.com/user-attachments/assets/df45e94b-6b99-4484-9c23-b0ed3e0e46da" />
 
 ---
-## 📚 References
+## 📚 References:
 
 **Quickstart Guide:** For a detailed, step-by-step quickstart on this project, check out this link- 
  https://quickstarts.snowflake.com/guide/avalanche-customer-review-data-analytics

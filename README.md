@@ -111,7 +111,7 @@ The project's Streamlit application generates interactive charts using Altair to
 ## Outputs:
 
 1st output-
-<img width="1163" height="653" alt="1" src="https://github.com/user-attachments/assets/83f9298c-cde7-4be2-bad4-88534405898e" />
+<img width="1425" height="768" alt="3" src="https://github.com/user-attachments/assets/eb7c360a-998f-4a50-b72c-1d8f1fb762e1" />
 
 2nd output-
 <img width="1157" height="557" alt="2" src="https://github.com/user-attachments/assets/df45e94b-6b99-4484-9c23-b0ed3e0e46da" />
